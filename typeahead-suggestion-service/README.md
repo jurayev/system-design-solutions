@@ -1,0 +1,3 @@
+# TYPEAHEAD SUGGESTION SERVICE (GOOGLE SEARCH)
+
+![SYSTEM DESIGN](images/typeahead-jurayev.png)
